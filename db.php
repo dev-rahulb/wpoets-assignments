@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$db   = 'wpoets_test';//if0_39126348_wpoets_test
+$db   = 'wpoets_test';
 $user = 'root';
 $pass = '';
 
